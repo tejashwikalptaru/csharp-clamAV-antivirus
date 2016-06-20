@@ -1,2 +1,2 @@
 # csharp-clamAV-antivirus
-A C# antivirus using clcamAV wrapper
+A C# antivirus using clamAV wrapper
