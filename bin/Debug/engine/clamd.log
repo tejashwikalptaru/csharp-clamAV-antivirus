@@ -1,0 +1,139 @@
++++ Started at Tue Jun 02 21:01:14 2015
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from E:\c#\MSITA\projects\AntiVirus_Project\AntiVirus_Project\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 3827012 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+--- Stopped at Tue Jun 02 21:01:57 2015
++++ Started at Tue Nov 03 12:10:38 2015
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Users\Tejashwi Kalp Taru\Desktop\AntiVirus_Project\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 3827012 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+--- Stopped at Tue Nov 03 12:11:02 2015
++++ Started at Tue Nov 03 12:11:26 2015
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Users\Tejashwi Kalp Taru\Desktop\AntiVirus_Project\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 3827012 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+WARNING: lstat() failed on: \\?\C:\ProgramData\AVAST Software\Avast\journal\journal14189115
+--- Stopped at Tue Nov 03 12:17:28 2015
++++ Started at Tue Nov 03 12:20:17 2015
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Users\Tejashwi Kalp Taru\Desktop\AntiVirus_Project\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
++++ Started at Tue Nov 03 12:23:59 2015
+clamd daemon 0.98.6 (OS: win32, ARCH: i386, CPU: i386)
+Log file size limited to 1048576 bytes.
+Reading databases from C:\Users\Tejashwi Kalp Taru\Desktop\AntiVirus_Project\bin\Debug\engine\db
+Not loading PUA signatures.
+Bytecode: Security mode set to "TrustSigned".
+Loaded 3827012 signatures.
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+TCP: Bound to []:3310
+TCP: Setting connection queue length to 200
+Limits: Global size limit set to 104857600 bytes.
+Limits: File size limit set to 26214400 bytes.
+Limits: Recursion level limit set to 16.
+Limits: Files limit set to 10000.
+Limits: MaxEmbeddedPE limit set to 10485760 bytes.
+Limits: MaxHTMLNormalize limit set to 10485760 bytes.
+Limits: MaxHTMLNoTags limit set to 2097152 bytes.
+Limits: MaxScriptNormalize limit set to 5242880 bytes.
+Limits: MaxZipTypeRcg limit set to 1048576 bytes.
+Limits: MaxPartitions limit set to 50.
+Limits: MaxIconsPE limit set to 100.
+Archive support enabled.
+Algorithmic detection enabled.
+Portable Executable support enabled.
+ELF support enabled.
+Mail files support enabled.
+OLE2 support enabled.
+PDF support enabled.
+SWF support enabled.
+HTML support enabled.
+Self checking every 600 seconds.
+--- Stopped at Tue Nov 03 12:24:15 2015
